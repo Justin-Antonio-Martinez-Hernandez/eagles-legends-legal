@@ -1,21 +1,34 @@
-# Condiciones del Servicio – Eagles Legends
+# 🦅 EAGLES LEGENDS
 
-**Última actualización:** 7 de noviembre de 2026
+### Rich Presence para nuestra comunidad competitiva
 
-## 1. Uso de la aplicación
-Eagles Legends Rich Presence es una aplicación independiente que permite mostrar actividades personalizadas relacionadas con la comunidad Eagles Legends en Discord.
+¡Bienvenido a Eagles Legends!
 
-## 2. Uso permitido
-Los usuarios se comprometen a utilizar la aplicación de manera responsable y a no modificarla para realizar actividades maliciosas.
+Eagles Legends Rich Presence es una aplicación independiente para Windows que permite a los integrantes de nuestra comunidad mostrar su actividad en Discord mientras participan en scrims, torneos y entrenamientos de Free Fire.
 
-## 3. Discord
-Esta aplicación utiliza funciones de integración de Discord. No está desarrollada, patrocinada ni respaldada oficialmente por Discord Inc.
+---
 
-## 4. Datos y privacidad
-La aplicación no solicita contraseñas ni tokens de Discord. La información de actividad se utiliza únicamente para mostrar el estado seleccionado por el usuario.
+## 🎮 Sobre la aplicación
 
-## 5. Disponibilidad
-Las funciones pueden cambiar, actualizarse o dejar de estar disponibles sin previo aviso.
+Con Eagles Legends Rich Presence podrás:
 
-## 6. Contacto
-Para consultas o problemas relacionados con Eagles Legends Rich Presence, contacta con el equipo de Eagles Legends a través de su servidor oficial de Discord.
+- Mostrar que estás jugando Free Fire.
+- Compartir si estás participando en una scrim.
+- Mostrar que estás compitiendo en un torneo.
+- Indicar que estás entrenando.
+- Personalizar tu actividad dentro de Discord.
+
+## 📄 Documentación legal
+
+Antes de utilizar la aplicación, consulta nuestros documentos:
+
+- [Condiciones del Servicio](./terms)
+- [Política de Privacidad](./privacy)
+
+---
+
+## 🦅 EAGLES LEGENDS
+
+**Juntos más fuertes.**
+
+Aplicación comunitaria independiente. No está afiliada, patrocinada ni respaldada oficialmente por Discord Inc. ni Garena.
